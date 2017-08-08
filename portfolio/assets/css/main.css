@@ -2140,6 +2140,13 @@
 
 /* Icon */
 
+
+	/*Custom icon Jay Papisan*/
+
+	.skills-icon {
+    font-size: 90px;
+}
+
 	.icon {
 		text-decoration: none;
 		border-bottom: none;
